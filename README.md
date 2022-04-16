@@ -2,12 +2,12 @@
 Script ini berguna untuk mengunduh data spreadsheet, mengubahnya menjadi csv, dan mengambil sampel.
 
 ## Prasyarat
-Mohon pastikan program-program berikut telah terpasang di komputer anda sebelum menjalankan script ini:
+Pastikan program-program berikut telah terpasang di komputer anda sebelum menjalankan script ini:
 1. [curl](https://curl.se)
 2. [csvkit](https://csvkit.rtfd.org)
 3. [sample-stream](https://github.com/jeroenjanssens/sample)
 
-## Penjelasan
+## Penjelasan script per baris
 ### Mengunduh data dari alamat url dan menyimpannya ke berkas bernama weather_data.xlsx
 ```curl -o weather_data.xlsx -L https://github.com/labusiam/dataset/raw/main/weather_data.xlsx```
 
