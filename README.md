@@ -1,4 +1,5 @@
-# Script untuk mengunduh data spreadsheet, mengubahnya menjadi csv, dan mengambil sampel.
+# sampling.sh
+Script ini berguna untuk mengunduh data spreadsheet, mengubahnya menjadi csv, dan mengambil sampel.
 
 ## Prasyarat
 Mohon pastikan program-program berikut telah terpasang di komputer anda sebelum menjalankan script ini:
